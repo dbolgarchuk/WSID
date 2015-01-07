@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Что мне делать?</string>
+    <string name="what_should_i_do">что мне делать?</string>
+    <string name="superanswer">Снимать штаны и бегать</string>
+    <string name="thinking">надо подумать...</string>
+    <string name="main_activity_label">Определись уже!</string>
+    <string name="action_settings">настройки</string>
+    <string name="rate_app">оценить приложение на Google Play</string>
+
+</resources>
